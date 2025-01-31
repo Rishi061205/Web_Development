@@ -1,0 +1,14 @@
+body{
+     background-color: rgb(215, 207, 207);
+}
+.cards{
+     border: 2px solid black;
+     display: flow-root;
+}
+.img{
+     float:right;
+}
+.card{
+     border: 2px solid red;
+     margin: 2px;
+}
